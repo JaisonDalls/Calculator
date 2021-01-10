@@ -1,1 +1,1 @@
-window.calculator = new calcController();
+window.calculator = new CalcController();
